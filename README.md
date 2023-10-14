@@ -1,4 +1,4 @@
-I'm on an exciting journey in coeing. Let me give you a glimpse of who I am:
+I'm on an exciting journey in coDeing. Let me give you a glimpse of who I am:
 
 - 🌟 I'm truly passionate about diving deep into data, finding meaningful insights, and building software solutions that make an impact.
 - 🌱 Right now, I'm immersing myself in the world of coding. Python has captured my heart, and I'm learning to harness its power for data analysis and software development. I'm also exploring machine learning and data visualization.
