@@ -1,5 +1,7 @@
+![Banner](https://github.com/A-Kaliexe/A-Kaliexe/assets/145980980/4f7b58d3-2dbd-40fe-b158-e977344a14a8)
 # 💫 About Me:
 I'm on an exciting journey in coding. Let me give you a glimpse of who I am:
+
 
 - 🌟 I'm truly passionate about diving deep into data, finding meaningful insights, and building software solutions that make an impact.
 - 🌱 Right now, I'm immersing myself in the world of coding. Python has captured my heart, and I'm learning to harness its power for data analysis and software development. I'm also exploring machine learning and data visualization.
